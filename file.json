@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Franco Mulakkal: Pope accepts resignation of bishop accused of rape",
+    "description": "The Vatican had temporarily relieved Franco Mulakkal of his duties when he was arrested in 2018",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-65784713",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E7B/production/_122693337_franco3.jpg",
+    "publishedAt": "2023-06-02T04:22:19.4970113Z",
+    "content": "The Vatican has announced that it has accepted the resignation of an Indian bishop accused of raping a nun between 2014 and 2016.\r\nFranco Mulakkal, 54, was the bishop of Jalandhar in the state of Pun… [+1864 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Congress approves debt deal, averting a US default",
+    "description": "President Joe Biden will now sign the measure into law, staving off worldwide economic chaos.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65781359",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15AFA/production/_129962888_chuck.jpg",
+    "publishedAt": "2023-06-02T03:07:15.7325708Z",
+    "content": "The US Congress has approved a deal to lift the country's borrowing limit, days before the world's largest economy is due to default on its debt.\r\nThe bipartisan measure sped through the Senate by a … [+2656 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Florida teenager Dev Shah wins US Spelling Bee with 'psammophile'",
+    "description": "Dev Shah defeats Charlotte Walsh after she fails to correctly spell \"daviely\" in an earlier round.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65784595",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B118/production/_129963354_e628ddba470a6a27ace624bde180fe65c77aaa9a.jpg",
+    "publishedAt": "2023-06-02T02:52:16.3563223Z",
+    "content": "A teenager from Florida has won the 2023 Scripps National Spelling Bee in the United States. \r\nDev Shah, a 14-year-old student from Largo, spelled \"psammophile\" correctly to win the 95th national bee… [+226 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Brics ministers call for rebalancing of global order away from West",
+    "description": "The talks attended by Russia in South Africa are clouded by allegations of war crimes in Ukraine.",
+    "url": "http://www.bbc.co.uk/news/world-africa-65784030",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7DEC/production/_129963223_3reuters.jpg",
+    "publishedAt": "2023-06-02T02:22:15.1379105Z",
+    "content": "A meeting of foreign ministers of the Brics group of nations in South Africa has called for a rebalancing of the global order away from Western nations. \r\nSouth African Foreign Minister Naledi Pandor… [+3220 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Spirit Airlines and Air Canada delays reported after separate IT issues",
+    "description": "The airlines warn of severe flight delays after both reported technical issues on Thursday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65781203",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FEF/production/_129957180_gettyimages-1490060736.jpg",
+    "publishedAt": "2023-06-02T01:07:17.6373654Z",
+    "content": "Spirit Airlines said it had resolved a \"technical issue\" that temporarily crashed its website, check-in kiosks and app, causing major delays.\r\nIt blamed a \"network issue between third party services\"… [+1016 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "How gun violence is reshaping American lives",
+    "description": "Avoiding public places, moving home... how the threat of random gunfire is changing the way people live.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65686152",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/935E/production/_129962773_morganhook_em-081.jpg",
+    "publishedAt": "2023-06-02T01:07:16.5282673Z",
+    "content": "As gun violence increases and shootings seem to make headlines every few days, the fear of getting caught up in one is changing the lives of millions of Americans.\r\nA shopping mall. A classroom. A te… [+6929 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Teens used to report Russian propaganda",
+    "description": "Children as young as 16 are working at TV channels in occupied Ukraine, spouting Russian propaganda.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65675102",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/100EE/production/_129847756_malkevich_telegram_heavierblur.jpg",
+    "publishedAt": "2023-06-01T23:37:21.8499642Z",
+    "content": "While Russia's notorious Wagner mercenaries have been at the forefront of fighting in Ukraine's ravaged eastern town of Bakhmut, a close associate of Wagner boss Yevgeny Prigozhin has been involved i… [+5477 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "I am not a groomer, says Schofield",
+    "description": "The former This Morning presenter speaks to the Sun about an affair he had with a young male colleague.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-65780307",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2AFE/production/_129960011_hi084975340.jpg",
+    "publishedAt": "2023-06-01T22:52:16.031905Z",
+    "content": "Media caption, Watch: \"It was consensual, but it was my fault,\" says Phillip Schofield. \r\nPhillip Schofield has said he is \"not a groomer\" after admitting to having an affair with a younger male coll… [+2553 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US President Joe Biden trips and falls at Colorado event",
+    "description": "The US president was handing out diplomas at a graduation ceremony for the US Air Force Academy.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65783589",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/160D6/production/_129962309_gettyimages-1258358301.jpg",
+    "publishedAt": "2023-06-01T19:37:22.6839641Z",
+    "content": "Media caption, Watch: Biden falls during graduation ceremony\r\nUS President Joe Biden tripped and fell while handing out diplomas at a graduation ceremony for the US Air Force Academy in Colorado on T… [+790 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nova Scotia battles its largest wildfire on record",
+    "description": "The Canadian fires have had a wide impact, with air quality warnings issued in the US northeast.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65755795",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B9E/production/_129949848_d000f76b940b8b0d31eab62bad6d275ac659d20b0_251_4032_22681000x563.jpg",
+    "publishedAt": "2023-06-01T15:52:25.8090811Z",
+    "content": "Media caption, Watch: Aerial view shows scale of Nova Scotia wildfires\r\nFirefighters in Nova Scotia are battling the largest wildfire in the Atlantic province's history. \r\nOfficials say the fire on t… [+3794 chars]"
+    }
+    ]
+    }
